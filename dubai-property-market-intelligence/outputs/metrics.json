@@ -1,0 +1,204 @@
+{
+  "market": {
+    "sales_last_12m": 173983,
+    "sales_prev_12m": 190093,
+    "sales_12m_change": -0.08474799177244818,
+    "ytd_2026": 101862,
+    "ytd_2025": 125851,
+    "ytd_change": -0.19061429786016792,
+    "jan_apr_change": -0.04311204318080242,
+    "may_aug_change": -0.31740473129719105,
+    "psf_latest": 1680.0,
+    "psf_yoy_latest": -0.0012,
+    "peak_12m_sales": 200908,
+    "peak_12m_month": "2026-02"
+  },
+  "communities_tracked": 113,
+  "top10_community_share": 0.444,
+  "quadrant_counts": {
+    "Hot: volume and price rising": 25,
+    "Tightening: price up, volume down": 17,
+    "Cooling: volume and price down": 9,
+    "Value play: volume up, price down": 1
+  },
+  "top_growth": [
+    {
+      "community": "City Of Arabia",
+      "sales_growth": 6.1917,
+      "psf_growth": 0.1019
+    },
+    {
+      "community": "Down Town Jabal Ali",
+      "sales_growth": 2.0427,
+      "psf_growth": 0.1393
+    },
+    {
+      "community": "Majan",
+      "sales_growth": 1.4347,
+      "psf_growth": 0.0982
+    },
+    {
+      "community": "Dubai South Residential District",
+      "sales_growth": 1.115,
+      "psf_growth": 0.2089
+    },
+    {
+      "community": "Palm Deira",
+      "sales_growth": 0.6349,
+      "psf_growth": 0.2094
+    }
+  ],
+  "top_cooling": [
+    {
+      "community": "Dubai Marina",
+      "sales_growth": -0.5353,
+      "psf_growth": -0.0957
+    },
+    {
+      "community": "Dubai Hills Estate",
+      "sales_growth": -0.5164,
+      "psf_growth": -0.0107
+    },
+    {
+      "community": "Al Furjan",
+      "sales_growth": -0.3308,
+      "psf_growth": 0.0678
+    },
+    {
+      "community": "Silicon Oasis",
+      "sales_growth": -0.2955,
+      "psf_growth": -0.0549
+    },
+    {
+      "community": "Business Bay",
+      "sales_growth": -0.2697,
+      "psf_growth": 0.0171
+    }
+  ],
+  "share_backtest": {
+    "Momentum-adjusted": 0.2020935084220715,
+    "Last 12 months": 0.2066099335705969,
+    "Equal split": 0.5172033972702338
+  },
+  "territory_max_dev": 0.035600000000000076,
+  "forecast": {
+    "mape": {
+      "holt_winters": 0.14327221276444402,
+      "seasonal_naive": 0.260943227710298,
+      "run_rate_seasonal": 0.13668026199575228
+    },
+    "bias": {
+      "holt_winters": 0.09370455734180916,
+      "seasonal_naive": 0.0925952535592558,
+      "run_rate_seasonal": 0.07288643143295603
+    },
+    "best_method": "run_rate_seasonal",
+    "q4_forecast_sep_dec": 58368.63952745838,
+    "same_period_2025": 72121.0
+  },
+  "forecast_months": [
+    {
+      "month": "2026-09",
+      "forecast": 13111.0,
+      "low_80": 10841.0,
+      "high_80": 15857.0,
+      "holt_winters": 12398.0,
+      "same_month_2025": 19017.0
+    },
+    {
+      "month": "2026-10",
+      "forecast": 15241.0,
+      "low_80": 12602.0,
+      "high_80": 18432.0,
+      "holt_winters": 13984.0,
+      "same_month_2025": 18224.0
+    },
+    {
+      "month": "2026-11",
+      "forecast": 14603.0,
+      "low_80": 12074.0,
+      "high_80": 17661.0,
+      "holt_winters": 13157.0,
+      "same_month_2025": 17401.0
+    },
+    {
+      "month": "2026-12",
+      "forecast": 15414.0,
+      "low_80": 12745.0,
+      "high_80": 18642.0,
+      "holt_winters": 13709.0,
+      "same_month_2025": 17479.0
+    }
+  ],
+  "seasonality_peak": {
+    "month": 12,
+    "index": 1.125
+  },
+  "seasonality_trough": {
+    "month": 1,
+    "index": 0.874
+  },
+  "developers_with_pipeline": 250,
+  "pipeline_units_total": 289336,
+  "top20_dev_pipeline_share": 0.42911010036773856,
+  "top20_dev_handover_units_12m": 26645,
+  "top5_developers": [
+    {
+      "developer": "Azizi Developments L.L.C",
+      "pipeline_units": 33845,
+      "sales_12m": 15537,
+      "score": 95.84
+    },
+    {
+      "developer": "Binghatti Developers Fze",
+      "pipeline_units": 29482,
+      "sales_12m": 17145,
+      "score": 94.16
+    },
+    {
+      "developer": "Ellington Properties Development L.L.C",
+      "pipeline_units": 2983,
+      "sales_12m": 2474,
+      "score": 90.68
+    },
+    {
+      "developer": "Danube Properties Development L.L.C",
+      "pipeline_units": 11681,
+      "sales_12m": 4714,
+      "score": 88.56
+    },
+    {
+      "developer": "Hre Real Estate Development L.L.C",
+      "pipeline_units": 4385,
+      "sales_12m": 1849,
+      "score": 88.52
+    }
+  ],
+  "yield_hotspots": [
+    {
+      "community": "International Media Production Zone",
+      "yield_pct": 8.62,
+      "rent_contracts_12m": 6678
+    },
+    {
+      "community": "International City Phase 1",
+      "yield_pct": 8.21,
+      "rent_contracts_12m": 22615
+    },
+    {
+      "community": "Dubai Studio City",
+      "yield_pct": 8.01,
+      "rent_contracts_12m": 1931
+    },
+    {
+      "community": "DAMAC HILLS 2",
+      "yield_pct": 7.98,
+      "rent_contracts_12m": 5359
+    },
+    {
+      "community": "Dubai Sports City",
+      "yield_pct": 7.78,
+      "rent_contracts_12m": 8665
+    }
+  ]
+}
